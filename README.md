@@ -8,7 +8,7 @@ Se solicita una conversion de divisa de acuerdo al menú que se muestra en panta
 ## Instalación
 
 1. Tener Java instalado.
-2. Clonar este repositorio: `git clone https://github.com/ZeltzinBleu/conversor-de-divisas.git`
+2. Clonar este repositorio: `git clone https://github.com/ZeltzinBleu/mi-conversor-de-divisas.git`
 3. Compilar el proyecto: `javac *.java`
 4. Ejecutar el proyecto: `java com.aluracursos.conversor.de.divisas.Main`
 ![image](https://github.com/user-attachments/assets/b3186d31-d10e-4860-9a30-c0abff4c57be)
